@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 8px 12px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#error, .error {
+  color: red;
+  font-size: 0.9em;
+  margin-left: 5px;
+}
+
+#formMessage {
+  margin-top: 15px;
+  font-weight: bold;
+  color: green;
+}
+
+input {
+  margin-bottom: 5px;
+  padding: 5px;
+  width: 200px;
+}
